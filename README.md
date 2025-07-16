@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Usha Singh!  
 
-<!--
-**usha2151/usha2151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Versatile web developer skilled in MERN, Next.js, and React Native.*  
+🌟 I specialize in building dynamic, responsive, and scalable applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Mobile:** React Native
+- **Database:** MongoDB, MySQL
+- **Other Tools:** Docker, Git, GitHub Actions, Nginx
+
+---
+
+## 🌐 Connect with Me
+- 🌎 [Portfolio Website](https://ushasolutions.tech)
+- 💼 [LinkedIn](https://www.linkedin.com/in/usha-singh-4a893a22b/)
+- 🐦 [Twitter](https://twitter.com/tech_usha)
+- 📸 [Instagram](https://www.instagram.com/tech_usha)
+
+---
+
+## 📊 GitHub Stats
+![Usha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usha2151&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usha2151&layout=compact&theme=radical)](https://github.com/usha2151)
+
+---
+
+## ✨ About Me
+💻 Passionate about crafting seamless user experiences  
+🌱 Currently learning **TypeScript** and **AWS**  
+📬 *Let's collaborate on awesome projects!*
