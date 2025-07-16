@@ -15,9 +15,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 🌎 [Portfolio Website](https://ushasolutions.tech)
+- 🌎 [Portfolio Website](https://mysecondportfolio-eight.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/usha-singh-4a893a22b/)
-- 🐦 [Twitter](https://twitter.com/tech_usha)
+- 🐦 [Twitter](https://twitter.com/usha99412)
 - 📸 [Instagram](https://www.instagram.com/tech_usha)
 
 ---
