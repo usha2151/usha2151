@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Usha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usha2151&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usha2151&layout=compact&theme=radical)](https://github.com/usha2151)
-
----
-
 ## ✨ About Me
 💻 Passionate about crafting seamless user experiences  
 🌱 Currently learning **TypeScript** and **AWS**  
