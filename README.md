@@ -8,9 +8,10 @@
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
+- **APIs:** REST API
 - **Mobile:** React Native
-- **Database:** MongoDB, MySQL
-- **Other Tools:** Docker, Git, GitHub Actions, Nginx
+- **Database:** MongoDB, MySQL, Firebase, Postgresql, Supabase
+- **Other Tools:** Docker, Git, GitHub Actions, Nginx, PM2
 
 ---
 
