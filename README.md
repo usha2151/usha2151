@@ -25,5 +25,5 @@
 
 ## ✨ About Me
 💻 Passionate about crafting seamless user experiences  
-🌱 Currently learning **TypeScript** and **AWS**  
+🌱 Currently learning **AI** and **LLM**  
 📬 *Let's collaborate on awesome projects!*
